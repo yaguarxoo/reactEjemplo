@@ -1,0 +1,14 @@
+label {
+    color: black;
+}
+
+button.btn.btn-primary {
+    margin-top: 10px;
+    background-color: #8c52ff;
+    border: solid 1px #8c52ff;
+
+}
+
+form {
+    text-align: left;
+}
